@@ -1,13 +1,10 @@
-Logo NLW Expert - Rocketseat
+
+# Nlw-Experts
 
 Aplicação desenvolvida no NLW Expert da Rocketseat na trilha HTML+CSS+JS.
 
 Tecnologias   |    Projeto   |    Licença
 
-License
-
-
-Preview do projeto desenvolvido.
 
 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
